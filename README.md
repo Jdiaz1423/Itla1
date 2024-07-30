@@ -10,7 +10,7 @@ Este proyecto es una asignación de la materia de **Programación 3** del Instit
 ## 📂 Características del Proyecto
 
 ### 📎 Link con Respuestas
-- Utiliza [OneDrive](https://onedrive.live.com/) para la entrega de la teoría o sube el documento al repositorio del proyecto.
+- Utiliza [OneDrive](https://1drv.ms/b/c/f1cbe658d25b21a1/EbKhlbjwqf5Hl5kKcau8QwEBPGrs9255XN_TIi6gmlFdOg?e=5OsCjK) para la entrega de la teoría o sube el documento al repositorio del proyecto.
 - Comparte el documento y asegúrate de configurarlo como público o proporciona acceso al profesor y al monitor. *(Si das los accesos no se corregirá)*
 
 ### 🔗 Link del Proyecto
